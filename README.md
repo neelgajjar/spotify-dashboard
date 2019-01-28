@@ -1,5 +1,7 @@
 # Spotify Profile
 
+![screenshot 37](https://user-images.githubusercontent.com/8587332/51860438-ae729980-2307-11e9-9aed-628c6023c01a.png)
+
 > A web app for visualizing personalized Spotify data
 
 Built with a bunch of things, but to name a few:
@@ -13,9 +15,7 @@ Built with a bunch of things, but to name a few:
 ## Setup
 
 1. [Register a Spotify App](https://developer.spotify.com/dashboard/applications) and add `http://localhost:8888/callback` as a Redirect URI in the app settings
-2. Create an `.env` file in the root of the project based on `.env.example`
-3. `yarn && yarn client:install`
-4. `yarn dev`
+
 
 ## Deploying to Heroku
 
