@@ -173,7 +173,7 @@ const Nav = () => (
     </Menu>
     <Github>
       <a
-        href="https://github.com/neelgajjar"
+        href="https://github.com/neelgajjar/spotify-dashboard"
         target="_blank"
         rel="noopener noreferrer">
         <IconGithub />
